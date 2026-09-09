@@ -1,5 +1,5 @@
-# Ex7 Removal of Nodes with a Specific Value from a Linked List
 
+# Ex7 Removal of Nodes with a Specific Value from a Linked List
 ## AIM:
 To write a java  program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
 
@@ -22,6 +22,7 @@ To write a java  program that removes all nodes from a linked list whose value m
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
 Developed by: AHIL SANTO A
 RegisterNumber: 212224040018
+
 
 */
 class RemoveNodes {
@@ -85,12 +86,13 @@ class RemoveNodes {
     }
 }
  
-
+*/
 ```
 
 ## Output:
 
-<img width="529" height="236" alt="image" src="https://github.com/user-attachments/assets/14c903e1-d685-474d-b618-06c9822ec0ca" />
+<img width="577" height="178" alt="514427177-3fc5c634-4b7f-4c1f-a939-42d281793676" src="https://github.com/user-attachments/assets/8b491571-ae80-4bdb-9d3d-3aa8c413a212" />
+
 
 
 ## Result:
