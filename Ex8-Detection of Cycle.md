@@ -15,7 +15,7 @@ If there is no cycle, the program should return null without modifying the linke
 
 
 ## Program:
-```
+```java
  /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
@@ -82,7 +82,7 @@ class DetectCycle {
     }
 }
   
-*/
+
 ```
 
 ## Output:
