@@ -13,7 +13,7 @@ Display the rotated linked list.
    
 
 ## Program:
-```
+```java
 /*
 Program to  Right Rotation LinkedList
 Developed by: AHIL SANTO A
